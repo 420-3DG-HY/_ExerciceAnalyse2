@@ -1,0 +1,45 @@
+{
+	"folders": [
+		{
+			"path": "./docs"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#acbff5",
+			"activityBar.activeBorder": "#e73865",
+			"activityBar.background": "#acbff5",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#e73865",
+			"activityBarBadge.foreground": "#e7e7e7",
+			"statusBar.background": "#7e9cf0",
+			"statusBar.foreground": "#15202b",
+			"statusBarItem.hoverBackground": "#5079eb",
+			"titleBar.activeBackground": "#7e9cf0",
+			"titleBar.activeForeground": "#15202b",
+			"titleBar.inactiveBackground": "#7e9cf099",
+			"titleBar.inactiveForeground": "#15202b99"
+		},
+		"peacock.color": "#7e9cf0"
+	},
+	"extensions": {
+		"recommendations": [
+			"davidanson.vscode-markdownlint",
+			"well-ar.plantuml",
+			"jebbs.plantuml",
+			"naumovs.color-highlight",
+			"ms-ceintl.vscode-language-pack-fr",
+			"hookyqr.githubissues",
+			"howardzuo.vscode-git-tags",
+			"pomber.git-file-history",
+			"mdickin.markdown-shortcuts",
+			"robole.markdown-shortcuts",
+			"johnpapa.vscode-peacock",
+			"clysto.plantuml",
+			"anseki.vscode-color",
+			"knisterpeter.vscode-github",
+			"qhoekman.language-plantuml"
+		]
+	}
+}

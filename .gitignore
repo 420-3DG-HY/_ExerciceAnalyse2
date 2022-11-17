@@ -1,0 +1,3 @@
+# Le dossier .webserver doit être dézippé pour fonctionner. 
+# L'intégrer au serveur git n'est pas souhaitable car ça génère des avertissements sur GitHub
+.webserver
