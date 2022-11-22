@@ -1,22 +1,9 @@
-# Votre nom ici - ÉTC
+# Exercice en classe (17 nov groupe 1) 
 
 
-Auteur : [votre nom ici]
+Auteur : Stéphane Denis
 
-Sujet : [Nom de projet]
-
-
-[écrivez ici la description du projet, son contexte, le besoin à combler]
-
-<!--
-
-Trouvez un titre adéquat pour le projet
-
-Mettez à jour le titre sur la première ligne de ce fichier 
-
-Mettez aussi à jour le document README.md à la racine du dossier git
-
--->
+Sujet : Léa
 
 ## Documentation du projet
 
